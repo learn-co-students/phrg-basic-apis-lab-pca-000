@@ -23,3 +23,4 @@ reading skills as well as your coding skills!
 3. Display the search results on the page. Include the name, a link to
    the repository, and the description.
 4. Try it out, and make sure all tests pass!
+<p data-visibility='hidden'>PHRG Basic APIs Lab</p>
